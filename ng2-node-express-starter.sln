@@ -7,21 +7,20 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ng2-node-express-starter", 
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55370"
-		Debug.AspNetCompiler.PhysicalPath = "..\ng2-node-express-starter\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\projects\ng2-node-express-starter\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55370\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_55370"
-		Release.AspNetCompiler.PhysicalPath = "..\ng2-node-express-starter\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\projects\ng2-node-express-starter\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55370\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55370"
-		SlnRelativePath = "..\ng2-node-express-starter\"
 	EndProjectSection
 EndProject
 Global
